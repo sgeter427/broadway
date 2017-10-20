@@ -13,8 +13,26 @@ h1 {
   color: white;
 }
 
-p {
+li {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
+a {
+color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
 }
